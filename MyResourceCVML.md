@@ -1,6 +1,6 @@
 # Computer Vision and Machine learning Resources #
 ----
-## Rearchers' homepage ##
+## Rearchers' homepage
 - [Anat Levin HomePage](http://www.wisdom.weizmann.ac.il/~levina/)
 - [Kaiming He - MSRA](http://research.microsoft.com/en-us/um/people/kahe/)
 - [Welcome to W.H.Y's home page 吴怀宇博士的主页](http://www.sigvc.org/why/resource.htm)
