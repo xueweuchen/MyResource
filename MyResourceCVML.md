@@ -54,17 +54,21 @@
 - [Hanson-jun - 博客园](http://www.cnblogs.com/scnucs/)
 - [Eric Yuan's Blog](http://eric-yuan.me/)
 - [pdollar | Learning to See](http://pdollar.wordpress.com/)
+
 ## Computer Vision Libs
 - [Useful Code | Computer Vision for Visual Effects](http://cvfxbook.com/useful-code/)
 - [C++ Code For Robust Foreground Estimation / Background Subtraction](http://arma.sourceforge.net/foreground/)
 - [Image Compression Tools for Matlab.](http://www.ux.uis.no/~karlsk/ICTools/ictools.html)
+
 ## Other Machine Learning Libs
 - [Torch7](http://www.torch.ch/)
 - [Armadillo C++ matrix library - Browse Files at SourceForge.net](http://sourceforge.net/projects/arma/files/?source=navbar)
 - [推荐系统开源软件列表 | Resys China](http://www.resyschina.com/2014/02/open-source-recsys.html#0-tsina-1-63176-397232819ff9a47a7b7e80a40613cfe1)
+
 ## Courses
 - [EE E4830 Digital ImageProcessing](http://www.ee.columbia.edu/~sfchang/course/dip/)
 - [On-line materials CVML Summer School, Paris 2013](http://www.di.ens.fr/willow/events/cvml2013/materials/)
+
 ## Intersting Topics
 - [Alpha Matting Evaluation Website](http://www.alphamatting.com/code.php)
 - [Face Recognition Homepage - Algorithms](http://www.face-rec.org/algorithms/#Comparisons)
@@ -74,10 +78,12 @@
 - [LFW : Results](http://vis-www.cs.umass.edu/lfw/results.html#facepp)
 - [Online Object Tracking: A Benchmark](http://www.visual-tracking.net/)
 - [Tracker Benchmark v1.0 - Visual Tracker Benchmark](https://sites.google.com/site/trackerbenchmark/benchmarks/v10)
+
 ## Blog Articles
 - [贝叶斯抠图 net\_assassin的专栏 博客频道 -CSDN.NET](http://blog.csdn.net/net_assassin/article/details/7816699)
 - [图像分割之（一）概述 zouxy09的专栏 博客频道 -CSDN.NET](http://blog.csdn.net/zouxy09/article/details/8532106)
 - [CVPR2013感兴趣的文章整理 | bfcat-计算机视觉博客](http://www.bfcat.com/index.php/2013/03/cvpr2013-papers)
+
 ## Other Resources
 - [OpenCV 中文论坛 • 查看主题 -计算机视觉领域的一些牛人博客，超有实力的研究机构等的网站链接---个人整理](http://www.opencv.org.cn/forum/viewtopic.php?f=1&t=13642)
 - [Computer Vision at Western - Code](http://vision.csd.uwo.ca/code/)
