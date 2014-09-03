@@ -49,11 +49,10 @@
 - [【西川善司】3D图形的概念和渲染管线（5回完)](http://www.opengpu.org/forum.php?mod=viewthread&tid=7550#lastpost)
 - [LuxRender - home](http://www.luxrender.net/en_GB/index)
 - [HyperGraph Table of Contents](http://www.siggraph.org/education/materials/HyperGraph/toc.htm)
-- [Computer Graphics 2013 - YouTube](https:/[Manuel's Relief Texture Mapping
-Page](http://www.inf.ufrgs.br/~oliveira/RTM.html)
+- [Manuel's Relief Texture Mapping Page](http://www.inf.ufrgs.br/~oliveira/RTM.html)
 - [tokaspt - cheap realtime global illumination - Google Project Hosting](https://code.google.com/p/tokaspt/)
 - [smallpt: Global Illumination in 99 lines of C++](http://kevinbeason.com/smallpt/)
-- [[Computer Graphics Programming Techniques and Ray Tracing Tutorials »www.scratchapixel.com](http://www.scratchapixel.com/)
+- [Computer Graphics Programming Techniques and Ray Tracing Tutorials »www.scratchapixel.com](http://www.scratchapixel.com/)
 - [Raytracing](http://fabiensanglard.net/rayTracing_back_of_business_card/index.php)
 - [GDC Vault](http://gdcvault.com/gdmag)
 - [Ray tracer « Axel Schumacher](http://www.axelschumacher.fr/ray-tracer/)
