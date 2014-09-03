@@ -9,6 +9,7 @@
 - [Zoran Zivkovic - SOFTWARE DOWNLOAD](http://staff.science.uva.nl/~zivkovic/DOWNLOAD.html)
 - [Junzhou Huang](http://ranger.uta.edu/~huang/Downloads.htm)
 - [Ming-Ming Cheng (程明明) | University of Oxford, Parks Road, Oxford OX1 3PJ](http://mmcheng.net/)
+- [Lei Zhang (HK-PolyU)](http://www4.comp.polyu.edu.hk/~cslzhang/)
 - [Welcome to Xiaoyu's personal web](http://www.xiaoyumu.com/)
 - [Paul Scovanner](http://www.cs.ucf.edu/~pscovann/)
 - [houxiaodi.com](http://www.houxiaodi.com/)
